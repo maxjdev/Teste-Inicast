@@ -3,6 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+.idea
+Case Inicast.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath
